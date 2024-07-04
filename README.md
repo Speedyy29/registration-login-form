@@ -1,3 +1,6 @@
+<img width="960" alt="Screenshot 2023-11-28 003600" src="https://github.com/Speedyy29/registration-login-form/assets/126769340/4177f2ac-61bb-4334-8c43-604610e50b78">
+
+
 ## ✨ Simple Responsive Registration and Login Form UI
 
 This project is a simple, responsive registration and login form UI built with HTML, CSS, and JavaScript. It features a clean, modern design with client-side validation and is mobile-friendly.
